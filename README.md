@@ -32,4 +32,8 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PriteshChauhan7/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/PriteshChauhan7/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
