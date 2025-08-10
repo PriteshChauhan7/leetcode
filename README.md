@@ -7,6 +7,7 @@ LEETCODE SOLUTIONS.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriteshChauhan7/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriteshChauhan7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0027-remove-element) |
 | [1646-kth-missing-positive-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## String
 |  |
@@ -24,6 +25,7 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriteshChauhan7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0027-remove-element) |
 ## Linked List
 |  |
 | ------- |
