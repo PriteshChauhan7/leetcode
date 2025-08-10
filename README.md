@@ -40,8 +40,25 @@ LEETCODE SOLUTIONS.
 | ------- |
 | [0009-palindrome-number](https://github.com/PriteshChauhan7/leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
