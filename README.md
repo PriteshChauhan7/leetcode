@@ -9,6 +9,7 @@ LEETCODE SOLUTIONS.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriteshChauhan7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0027-remove-element) |
 | [1646-kth-missing-positive-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +63,8 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
