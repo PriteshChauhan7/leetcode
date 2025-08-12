@@ -69,4 +69,8 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 <!---LeetCode Topics End-->
