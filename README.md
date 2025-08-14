@@ -9,6 +9,7 @@ LEETCODE SOLUTIONS.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriteshChauhan7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/PriteshChauhan7/leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
 | [1646-kth-missing-positive-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
@@ -55,14 +56,17 @@ LEETCODE SOLUTIONS.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -76,4 +80,8 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
