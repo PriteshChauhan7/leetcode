@@ -15,6 +15,7 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriteshChauhan7/leetcode/tree/master/0014-longest-common-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/PriteshChauhan7/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
 | ------- |
