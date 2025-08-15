@@ -40,6 +40,7 @@ LEETCODE SOLUTIONS.
 | [0021-merge-two-sorted-lists](https://github.com/PriteshChauhan7/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriteshChauhan7/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PriteshChauhan7/leetcode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -47,11 +48,13 @@ LEETCODE SOLUTIONS.
 | [0066-plus-one](https://github.com/PriteshChauhan7/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriteshChauhan7/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PriteshChauhan7/leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PriteshChauhan7/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
