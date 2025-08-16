@@ -50,6 +50,7 @@ LEETCODE SOLUTIONS.
 | [0326-power-of-three](https://github.com/PriteshChauhan7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PriteshChauhan7/leetcode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +88,8 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
