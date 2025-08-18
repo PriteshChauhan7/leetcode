@@ -10,6 +10,7 @@ LEETCODE SOLUTIONS.
 | [0027-remove-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/PriteshChauhan7/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/PriteshChauhan7/leetcode/tree/master/0169-majority-element) |
+| [0679-24-game](https://github.com/PriteshChauhan7/leetcode/tree/master/0679-24-game) |
 | [1646-kth-missing-positive-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2529-range-product-queries-of-powers](https://github.com/PriteshChauhan7/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
@@ -49,6 +50,7 @@ LEETCODE SOLUTIONS.
 | [0231-power-of-two](https://github.com/PriteshChauhan7/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PriteshChauhan7/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PriteshChauhan7/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/PriteshChauhan7/leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/PriteshChauhan7/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/PriteshChauhan7/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/PriteshChauhan7/leetcode/tree/master/1448-maximum-69-number) |
@@ -102,4 +104,8 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/PriteshChauhan7/leetcode/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/PriteshChauhan7/leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
