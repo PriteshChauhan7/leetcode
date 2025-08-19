@@ -108,4 +108,5 @@ LEETCODE SOLUTIONS.
 |  |
 | ------- |
 | [0679-24-game](https://github.com/PriteshChauhan7/leetcode/tree/master/0679-24-game) |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PriteshChauhan7)](https://git.io/streak-stats)
 <!---LeetCode Topics End-->
